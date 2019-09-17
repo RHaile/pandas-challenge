@@ -1,0 +1,7 @@
+Ruta Haile
+Pandas HW
+
+
+1. The first trend I noticed was students that went to a Charter High School had higher scores than District Schools. The top five performing schools (based on reading and math scores) were all Charters whereas the bottom five were all District.
+
+2. Based on the data, another trend I noticed was the direct correlation between the Budget Per Student and the Overall Passing Rate. Weirdly enough as the budget per student increased, the scores and passing rate seemed to decrease. Also larger schools with more than 2000 students has a lower passing rate and average reading/math scores.   
